@@ -1,0 +1,164 @@
+{
+"Gpaidata": [
+    {
+      "number": 0,
+      "route": "NIS",
+      "front": 1,
+      "frontid1": "rbxassetid://10386742014",
+      "controllerid1": "rbxassetid://10386742014",
+      "side": 1,
+      "sideid1": "rbxassetid://10386742715"
+    },
+        {
+      "number": 1,
+      "route": "TB",
+      "front": 1,
+      "frontid1": "rbxassetid://7625453541",
+      "controllerid1": "rbxassetid://7633822363",
+      "side": 2,
+      "sideid1": "rbxassetid://7926109309",
+      "sideid2": "rbxassetid://7625461695"
+    },
+    {
+      "number": 2,
+      "route": "31Y",
+      "front": 2,
+      "frontid1": "rbxassetid://10019045672",
+      "frontid2": "rbxassetid://10019045672",
+      "controllerid1": "rbxassetid://10019045251",
+      "controllerid2": "rbxassetid://10019045987",
+      "side": 2,
+      "sideid1": "rbxassetid://10019045251",
+      "sideid2": "rbxassetid://10019045987"
+    },
+    {
+      "number": 3,
+      "route": "31Z",
+      "front": 2,
+      "frontid1": "rbxassetid://10019046793",
+      "frontid2": "rbxassetid://10019046793",
+      "controllerid1": "rbxassetid://10019046358",
+      "controllerid2": "rbxassetid://10019081664",
+      "side": 2,
+      "sideid1": "rbxassetid://10019046358",
+      "sideid2": "rbxassetid://10019081664"
+    },
+        {
+      "number": 4,
+      "route": "36Y",
+      "front": 2,
+      "frontid1": "rbxassetid://10019054667",
+      "frontid2": "rbxassetid://10019054667",
+      "controllerid1": "rbxassetid://10019054022",
+      "controllerid2": "rbxassetid://10019055271",
+      "side": 2,
+      "sideid1": "rbxassetid://10019054022",
+      "sideid2": "rbxassetid://10019055271"
+    },
+    {
+      "number": 5,
+      "route": "36Z",
+      "front": 2,
+      "frontid1": "rbxassetid://10019056432",
+      "frontid2": "rbxassetid://10019056432",
+      "controllerid1": "rbxassetid://10019046358",
+      "controllerid2": "rbxassetid://10019081664",
+      "side": 2,
+      "sideid1": "rbxassetid://10019046358",
+      "sideid2": "rbxassetid://10019081664"
+    },
+    {
+      "number": 6,
+      "route": "48EY",
+      "front": 2,
+      "frontid1": "rbxassetid://10019058081",
+      "frontid2": "rbxassetid://10019058081",
+      "controllerid1": "rbxassetid://10019057526",
+      "controllerid2": "rbxassetid://10019058512",
+      "side": 2,
+      "sideid1": "rbxassetid://10019057526",
+      "sideid2": "rbxassetid://10019058512"
+    },
+    {
+      "number": 10,
+      "route": "48EZ",
+      "front": 2,
+      "frontid1": "rbxassetid://10019059787",
+      "frontid2": "rbxassetid://10019059787",
+      "controllerid1": "rbxassetid://10019059136",
+      "controllerid2": "rbxassetid://10019060536",
+      "side": 2,
+      "sideid1": "rbxassetid://10019059136",
+      "sideid2": "rbxassetid://10019060536"
+    },
+    {
+      "number": 11,
+      "route": "48Y",
+      "front": 2,
+      "frontid1": "rbxassetid://10019061675",
+      "frontid2": "rbxassetid://10019061675",
+      "controllerid1": "rbxassetid://10019061203",
+      "controllerid2": "rbxassetid://10019062801",
+      "side": 2,
+      "sideid1": "rbxassetid://10019061203",
+      "sideid2": "rbxassetid://10019062801"
+    },
+    {
+      "number": 12,
+      "route": "48Z",
+      "front": 2,
+      "frontid1": "rbxassetid://10019064615",
+      "frontid2": "rbxassetid://10019064615",
+      "controllerid1": "rbxassetid://10019294305",
+      "controllerid2": "rbxassetid://10018930312",
+      "side": 2,
+      "sideid1": "rbxassetid://10019294305",
+      "sideid2": "rbxassetid://10018930312"
+    },
+    {
+      "number": 13,
+      "route": "TEST",
+      "front": 1,
+      "frontid1": "rbxassetid://7613193515",
+      "controllerid1": "rbxassetid://7633818804",
+      "side": 1,
+      "sideid1": "rbxassetid://7926464412"
+    },
+        {
+      "number": 14,
+      "route": "XMAS",
+      "front": 1,
+      "frontid1": "rbxassetid://8250511407",
+      "controllerid1": "rbxassetid://8250512625",
+      "side": 1,
+      "sideid1": "rbxassetid://8250512625"
+    },
+           {
+      "number": 15,
+      "route": "BD",
+      "front": 1,
+      "frontid1": "rbxassetid://6363594919",
+      "controllerid1": "rbxassetid://6363594919",
+      "side": 1,
+      "sideid1": "rbxassetid://6363594919"
+    },
+           {
+      "number": 16,
+      "route": "KMM",
+      "front": 1,
+      "frontid1": "rbxassetid://6348090310",
+      "controllerid1": "rbxassetid://6348090310",
+      "side": 1,
+      "sideid1": "rbxassetid://6348090310"
+    },
+    {
+      "number": 17,
+      "route": "VERSION",
+      "front": 1,
+      "frontid1": "rbxassetid://8021853694",
+      "controllerid1": "rbxassetid://8023972815",
+      "side": 1,
+      "sideid1": "rbxassetid://8021855106"
+    }
+  ]
+}
