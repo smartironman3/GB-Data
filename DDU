@@ -168,7 +168,7 @@
       "halfpriceZ2": "2.6",
       "maxPY": "1",
       "priceY1": "15.0",
-      "halfpriceY1": "7.5"
+      "halfpriceY1": "7.5",
       "priceY2": "5.2",
       "halfpriceY2": "2.6"      
     },   
@@ -184,7 +184,7 @@
       "halfpriceZ2": "2.6",
       "maxPY": "1",
       "priceY1": "15.0",
-      "halfpriceY1": "7.5"
+      "halfpriceY1": "7.5",
       "priceY2": "5.2",
       "halfpriceY2": "2.6"      
     },   
@@ -200,7 +200,7 @@
       "halfpriceZ2": "2.6",
       "maxPY": "2",
       "priceY1": "15.0",
-      "halfpriceY1": "7.5"
+      "halfpriceY1": "7.5",
       "priceY2": "5.2",
       "halfpriceY2": "2.6"      
     },      
@@ -218,9 +218,9 @@
       "halfpriceZ3": "3.1",      
       "maxPY": "3",
       "priceY1": "11.3",
-      "halfpriceY1": "5.7"
+      "halfpriceY1": "5.7",
       "priceY2": "9.8",
-      "halfpriceY2": "4.9" 
+      "halfpriceY2": "4.9", 
       "priceY3": "6.2",
       "halfpriceY3": "3.1"      
     }, 
@@ -240,9 +240,9 @@
       "halfpriceZ4": "2.6",       
       "maxPY": "3",
       "priceY1": "14.8",
-      "halfpriceY1": "7.4"
+      "halfpriceY1": "7.4",
       "priceY2": "12.8",
-      "halfpriceY2": "6.4" 
+      "halfpriceY2": "6.4", 
       "priceY3": "4.8",
       "halfpriceY3": "2.4"      
     }    
