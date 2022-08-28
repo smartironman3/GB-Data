@@ -187,25 +187,9 @@
       "halfpriceY1": "7.5",
       "priceY2": "5.2",
       "halfpriceY2": "2.6"      
-    },   
+    },       
           {
       "number": 15,
-      "route": "272X",
-      "destZ": "北聯墟",
-      "destY": "美樂島新發展區",
-      "maxPZ": "2",
-      "priceZ1": "15.0",
-      "halfpriceZ1": "7.5",
-      "priceZ2": "5.2",
-      "halfpriceZ2": "2.6",
-      "maxPY": "2",
-      "priceY1": "15.0",
-      "halfpriceY1": "7.5",
-      "priceY2": "5.2",
-      "halfpriceY2": "2.6"      
-    },      
-          {
-      "number": 16,
       "route": "70",
       "destZ": "羽田海灣",
       "destY": "河畔碼頭",
@@ -225,8 +209,8 @@
       "halfpriceY3": "3.1"      
     }, 
           {
-      "number": 17,
-      "route": "70",
+      "number": 16,
+      "route": "251X",
       "destZ": "日出谷站",
       "destY": "中秀邨",
       "maxPZ": "4",
