@@ -192,7 +192,7 @@
       "number": 15,
       "route": "70",
       "destZ": "羽田海灣",
-      "destY": "河畔碼頭",
+      "destY": "日落碼頭",
       "maxPZ": "3",
       "priceZ1": "10.7",
       "halfpriceZ1": "5.4",
@@ -214,7 +214,7 @@
       "number": 16,
       "route": "70A",
       "destZ": "羽田海灣",
-      "destY": "河畔碼頭",
+      "destY": "日落碼頭",
       "maxPZ": "4",
       "priceZ1": "10.7",
       "halfpriceZ1": "5.4",
@@ -232,8 +232,32 @@
       "priceY3": "4.3",
       "halfpriceY3": "2.7"      
     }, 
-          {
+                  {
       "number": 17,
+      "route": "70M",
+      "destZ": "海逸邨",
+      "destY": "日落碼頭",
+      "maxPZ": "1",
+      "priceZ1": "6.8",
+      "halfpriceZ1": "3.4",
+      "maxPY": "1",
+      "priceY1": "6.8",
+      "halfpriceY1": "3.4"    
+    }, 
+                      {
+      "number": 18,
+      "route": "71",
+      "destZ": "東洋山",
+      "destY": "日落碼頭",
+      "maxPZ": "1",
+      "priceZ1": "6.8",
+      "halfpriceZ1": "3.4",
+      "maxPY": "1",
+      "priceY1": "6.8",
+      "halfpriceY1": "3.4"    
+    }, 
+          {
+      "number": 19,
       "route": "251X",
       "destZ": "日出谷站",
       "destY": "中秀邨",
