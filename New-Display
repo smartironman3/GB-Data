@@ -408,7 +408,7 @@
       "controllerid2": "rbxassetid://16877010349",     
       "side": 2,
       "sideid1": "rbxassetid://16877010457",
-      "sideid2": "rbxassetid://16877010349",   
+      "sideid2": "rbxassetid://16877010349"   
     }, 
     {
       "number": 36,
@@ -420,6 +420,6 @@
       "controllerid2": "rbxassetid://16877010126",        
       "side": 2,
       "sideid1": "rbxassetid://16877010243",
-      "sideid2": "rbxassetid://16877010126",
+      "sideid2": "rbxassetid://16877010126"
     }   
   ]
