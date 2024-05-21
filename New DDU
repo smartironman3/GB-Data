@@ -310,5 +310,28 @@
       "halfpriceY2": "6.4", 
       "priceY3": "4.8",
       "halfpriceY3": "2.4"      
+    },     
+    {
+      "number": 22,
+      "route": "53H",
+      "destZ": "渡船角",
+      "destY": "交通博物館",
+      "maxPZ": "1",
+      "priceZ1": "4.3",
+      "halfpriceZ1": "2.2",
+      "priceY1": "4.3",
+      "halfpriceY1": "2.2"   
+    },    
+    {
+      "number": 23,
+      "route": "353",
+      "destZ": "中環市中心",
+      "destY": "交通博物館",
+      "maxPZ": "1",
+      "priceZ1": "0.0",
+      "halfpriceZ1": "0.0",
+      "priceY1": "0.0",
+      "halfpriceY1": "0.0"   
     }    
+
   ]
