@@ -436,12 +436,15 @@
       "route": "53HZ",
       "front": 2,
       "frontid1": "rbxassetid://17567043920",
-      "frontid2": "rbxassetid://17567043671",
+      "frontid2": "rbxassetid://17585647697",
+      "frontid3": "rbxassetid://17567043671",
       "controllerid1": "rbxassetid://17567043920",
-      "controllerid2": "rbxassetid://17567043671",        
+      "controllerid2": "rbxassetid://17585647697",  
+      "controllerid3": "rbxassetid://17567043671",        
       "side": 2,
       "sideid1": "rbxassetid://17567043920",
-      "sideid2": "rbxassetid://17567043671"
+      "sideid2": "rbxassetid://17585647697",
+      "sideid3": "rbxassetid://17567043671"
     },   
 
 {
