@@ -445,10 +445,64 @@
       "sideid1": "rbxassetid://17567043920",
       "sideid2": "rbxassetid://17585647697",
       "sideid3": "rbxassetid://17567043671"
+    },  
+    {
+      "number": 39,
+      "route": "60Y",
+      "front": 3,
+      "frontid1": "rbxassetid://70814523373547",
+      "frontid2": "rbxassetid://133461839129047",
+      "frontid3": "rbxassetid://112922979970945",
+      "controllerid1": "rbxassetid://70814523373547",
+      "controllerid2": "rbxassetid://133461839129047",  
+      "controllerid3": "rbxassetid://112922979970945",        
+      "side": 3,
+      "sideid1": "rbxassetid://70814523373547",
+      "sideid2": "rbxassetid://133461839129047",
+      "sideid3": "rbxassetid://112922979970945"
     },   
+    {
+      "number": 40,
+      "route": "60Z",
+      "front": 3,
+      "frontid1": "rbxassetid://90040851660202",
+      "frontid2": "rbxassetid://116118547905956",
+      "frontid3": "rbxassetid://137376704311989",
+      "controllerid1": "rbxassetid://90040851660202",
+      "controllerid2": "rbxassetid://116118547905956",  
+      "controllerid3": "rbxassetid://137376704311989",        
+      "side": 3,
+      "sideid1": "rbxassetid://90040851660202",
+      "sideid2": "rbxassetid://116118547905956",
+      "sideid3": "rbxassetid://137376704311989"
+    }, 
+    {
+      "number": 41,
+      "route": "60XY",
+      "front": 2,
+      "frontid1": "rbxassetid://75467445248693",
+      "frontid2": "rbxassetid://139680376828521",
+      "controllerid1": "rbxassetid://75467445248693",
+      "controllerid2": "rbxassetid://139680376828521",         
+      "side": 2,
+      "sideid1": "rbxassetid://75467445248693",
+      "sideid2": "rbxassetid://139680376828521"
+    },   
+    {
+      "number": 42,
+      "route": "60XZ",
+      "front": 2,
+      "frontid1": "rbxassetid://97510575340943",
+      "frontid2": "rbxassetid://99007114380349",
+      "controllerid1": "rbxassetid://97510575340943",
+      "controllerid2": "rbxassetid://99007114380349",         
+      "side": 2,
+      "sideid1": "rbxassetid://97510575340943",
+      "sideid2": "rbxassetid://99007114380349"
+    }, 
 
 {
-      "number": 39,
+      "number": 43,
       "route": "353Y",
       "front": 2,
       "frontid1": "rbxassetid://17567043422",
@@ -460,7 +514,7 @@
       "sideid2": "rbxassetid://17567043198"
     },  
     {
-      "number": 40,
+      "number": 44,
       "route": "353Z",
       "front": 4,
       "frontid1": "rbxassetid://17567043024",
