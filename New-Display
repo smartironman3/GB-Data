@@ -551,50 +551,44 @@
     {
       "number": 48,
       "route": "63PY",
-      "front": 2,
-      "frontid1": "",
-      "frontid2": "",
-      "controllerid1": "",
-      "controllerid2": "",         
-      "side": 2,
-      "sideid1": "",
-      "sideid2": ""
+      "front": 1,
+      "frontid1": "rbxassetid://82478228561933",
+      "controllerid1": "rbxassetid://108422506457978",       
+      "side": 1,
+      "sideid1": "rbxassetid://82478228561933"
     },   
     {
       "number": 49,
       "route": "63PZ",
       "front": 2,
-      "frontid1": "",
-      "frontid2": "",
-      "controllerid1": "",
-      "controllerid2": "",         
+      "frontid1": "rbxassetid://110134370365431",
+      "frontid2": "rbxassetid://105984024290009",
+      "controllerid1": "rbxassetid://128609780391887",
+      "controllerid2": "rbxassetid://88569302103651",         
       "side": 2,
-      "sideid1": "",
-      "sideid2": ""
+      "sideid1": "rbxassetid://110134370365431",
+      "sideid2": "rbxassetid://105984024290009"
     },
     {
       "number": 50,
       "route": "63XY",
-      "front": 2,
-      "frontid1": "",
-      "frontid2": "",
-      "controllerid1": "",
-      "controllerid2": "",         
-      "side": 2,
-      "sideid1": "",
-      "sideid2": ""
+      "front": 1,
+      "frontid1": "rbxassetid://91100539154955",
+      "controllerid1": "rbxassetid://87896776462825",        
+      "side": 1,
+      "sideid1": "rbxassetid://91100539154955"
     },   
     {
       "number": 51,
       "route": "63XZ",
       "front": 2,
-      "frontid1": "",
-      "frontid2": "",
-      "controllerid1": "",
-      "controllerid2": "",         
+      "frontid1": "rbxassetid://136108106146606",
+      "frontid2": "rbxassetid://134665055556892",
+      "controllerid1": "rbxassetid://128359376934074",
+      "controllerid2": "rbxassetid://137774320842511",         
       "side": 2,
-      "sideid1": "",
-      "sideid2": ""
+      "sideid1": "rbxassetid://136108106146606",
+      "sideid2": "rbxassetid://134665055556892"
     },
     {
       "number": 52,
