@@ -548,51 +548,46 @@
     {
       "number": 48,
       "route": "63PY",
-      "front": 2,
-      "frontid1": "",
-      "frontid2": "",
-      "controllerid1": "",
-      "controllerid2": "",         
-      "side": 2,
-      "sideid1": "",
-      "sideid2": ""
+      "front": 1,
+      "frontid1": "rbxassetid://122716276703604",
+      "controllerid1": "rbxassetid://108422506457978",       
+      "side": 1,
+      "sideid1": "rbxassetid://122716276703604"
     },   
     {
       "number": 49,
       "route": "63PZ",
       "front": 2,
-      "frontid1": "",
-      "frontid2": "",
-      "controllerid1": "",
-      "controllerid2": "",         
+      "frontid1": "rbxassetid://85186696956051",
+      "frontid2": "rbxassetid://134501392897378",
+      "controllerid1": "rbxassetid://128609780391887",
+      "controllerid2": "rbxassetid://88569302103651",         
       "side": 2,
-      "sideid1": "",
-      "sideid2": ""
+      "sideid1": "rbxassetid://85186696956051",
+      "sideid2": "rbxassetid://134501392897378"
     },
     {
       "number": 50,
       "route": "63XY",
-      "front": 2,
-      "frontid1": "",
-      "frontid2": "",
-      "controllerid1": "",
-      "controllerid2": "",         
-      "side": 2,
-      "sideid1": "",
-      "sideid2": ""
+      "front": 1,
+      "frontid1": "rbxassetid://77870896341823",
+      "controllerid1": "rbxassetid://87896776462825",        
+      "side": 1,
+      "sideid1": "rbxassetid://77870896341823"
     },   
     {
       "number": 51,
       "route": "63XZ",
       "front": 2,
-      "frontid1": "",
-      "frontid2": "",
-      "controllerid1": "",
-      "controllerid2": "",         
+      "frontid1": "rbxassetid://119365654303652",
+      "frontid2": "rbxassetid://116672378514211",
+      "controllerid1": "rbxassetid://128359376934074",
+      "controllerid2": "rbxassetid://137774320842511",         
       "side": 2,
-      "sideid1": "",
-      "sideid2": ""
+      "sideid1": "rbxassetid://119365654303652",
+      "sideid2": "rbxassetid://116672378514211
     },
+
     {
       "number": 52,
       "route": "66CY",
