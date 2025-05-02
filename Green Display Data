@@ -700,6 +700,60 @@
     }, 
     {
       "number": 64,
+      "route": "66Y",
+      "front": 1,
+      "frontid1": "rbxassetid://109879217319932",
+      "controllerid1": "rbxassetid://89762416590630",       
+      "side": 1,
+      "sideid1": "rbxassetid://109879217319932"
+    },   
+    {
+      "number": 65,
+      "route": "66Z",
+      "front": 1,
+      "frontid1": "rbxassetid://121669363507699",
+      "controllerid1": "rbxassetid://131074070786014",        
+      "side": 1,
+      "sideid1": "rbxassetid://121669363507699"
+    },
+    {
+      "number": 66,
+      "route": "66AY",
+      "front": 1,
+      "frontid1": "rbxassetid://108239133039918",
+      "controllerid1": "rbxassetid://134123854471567",       
+      "side": 1,
+      "sideid1": "rbxassetid://108239133039918"
+    },   
+    {
+      "number": 67,
+      "route": "66AZ",
+      "front": 1,
+      "frontid1": "rbxassetid://132826345805674",
+      "controllerid1": "rbxassetid://124249544430591",        
+      "side": 1,
+      "sideid1": "rbxassetid://132826345805674"
+    },
+    {
+      "number": 68,
+      "route": "66BY",
+      "front": 1,
+      "frontid1": "rbxassetid://80721775550999",
+      "controllerid1": "rbxassetid://126589286680559",       
+      "side": 1,
+      "sideid1": "rbxassetid://80721775550999"
+    },   
+    {
+      "number": 69,
+      "route": "66BZ",
+      "front": 1,
+      "frontid1": "rbxassetid://140555982102039",
+      "controllerid1": "rbxassetid://101544983214754",        
+      "side": 1,
+      "sideid1": "rbxassetid://140555982102039"
+    },
+    {
+      "number": 70,
       "route": "66CY",
       "front": 1,
       "frontid1": "rbxassetid://121288895486035",
@@ -708,7 +762,7 @@
       "sideid1": "rbxassetid://121288895486035"
     },   
     {
-      "number": 65,
+      "number": 71,
       "route": "66CZ",
       "front": 1,
       "frontid1": "rbxassetid://129019223058856",
@@ -716,9 +770,71 @@
       "side": 1,
       "sideid1": "rbxassetid://129019223058856"
     },
-
+   {
+      "number": 72,
+      "route": "66DY",
+      "front": 1,
+      "frontid1": "rbxassetid://99098659183805",
+      "controllerid1": "rbxassetid://72221755755590",       
+      "side": 1,
+      "sideid1": "rbxassetid://99098659183805"
+    },   
+    {
+      "number": 73,
+      "route": "66DZ",
+      "front": 1,
+      "frontid1": "rbxassetid://93663096712039",
+      "controllerid1": "rbxassetid://83920424442657",        
+      "side": 1,
+      "sideid1": "rbxassetid://93663096712039"
+    },
+    {
+      "number": 74,
+      "route": "66EY",
+      "front": 1,
+      "frontid1": "rbxassetid://121376905855557",
+      "controllerid1": "rbxassetid://133888719070624",       
+      "side": 1,
+      "sideid1": "rbxassetid://121376905855557"
+    },   
+    {
+      "number": 75,
+      "route": "66EZ",
+      "front": 1,
+      "frontid1": "rbxassetid://107860381000062",
+      "controllerid1": "rbxassetid://101032249601395",        
+      "side": 1,
+      "sideid1": "rbxassetid://107860381000062"
+    },
+    {
+      "number": 76,
+      "route": "66PY",
+      "front": 1,
+      "frontid1": "rbxassetid://73953637422340",
+      "controllerid1": "rbxassetid://77846118531817",       
+      "side": 1,
+      "sideid1": "rbxassetid://73953637422340"
+    },   
+    {
+      "number": 77,
+      "route": "66XY",
+      "front": 1,
+      "frontid1": "rbxassetid://132308308383577",
+      "controllerid1": "rbxassetid://97467609308540",       
+      "side": 1,
+      "sideid1": "rbxassetid://132308308383577"
+    },   
+    {
+      "number": 78,
+      "route": "66XZ",
+      "front": 1,
+      "frontid1": "rbxassetid://73952101136769",
+      "controllerid1": "rbxassetid://97467609308540",        
+      "side": 1,
+      "sideid1": "rbxassetid://73952101136769"
+    },
 {
-      "number": 66,
+      "number": 79,
       "route": "353Y",
       "front": 2,
       "frontid1": "rbxassetid://115022370590383",
@@ -730,7 +846,7 @@
       "sideid2": "rbxassetid://94908509393759"
     },  
     {
-      "number": 67,
+      "number": 80,
       "route": "353Z",
       "front": 4,
       "frontid1": "rbxassetid://98504865326562",
