@@ -798,14 +798,14 @@
       "frontid1": "rbxassetid://101903407231055",
       "controllerid1": "rbxassetid://133888719070624",       
       "side": 1,
-      "sideid1": "rbxassetid://101032249601395"
+      "sideid1": "rbxassetid://101903407231055"
     },   
     {
       "number": 75,
       "route": "66EZ",
       "front": 1,
       "frontid1": "rbxassetid://98877467980595",
-      "controllerid1": "rbxassetid://112144853374017",        
+      "controllerid1": "rbxassetid://101032249601395",        
       "side": 1,
       "sideid1": "rbxassetid://98877467980595"
     },
