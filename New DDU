@@ -331,6 +331,18 @@
     },
     {
         "number": 23,
+        "route": "65",
+        "destZ": "哈理山",
+        "destY": "都薈",
+        "maxPZ": "1",
+        "priceZ1": "5.7",
+        "halfpriceZ1": "2.9",
+        "maxPY": "1",
+        "priceY1": "5.7",
+        "halfpriceY1": "2.9"
+    },
+    {
+        "number": 24,
         "route": "353",
         "destZ": "中環市中心",
         "destY": "交通博物館",
