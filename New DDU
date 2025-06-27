@@ -334,18 +334,18 @@
         "route": "60",
         "destZ": "舊城區",
         "destY": "渡船角碼頭",
-        "maxPZ": "2",
+        "maxPZ": "3",
         "priceZ1": "17.8",
         "halfpriceZ1": "8.9",
         "priceZ2": "12.3",
         "halfpriceZ2": "6.2",
-        "maxPY": "3",
+        "priceY3": "7.1",
+        "halfpriceY3": "3.6",
+        "maxPY": "2",
         "priceY1": "17.8",
         "halfpriceY1": "8.9",
         "priceY2": "12.3",
-        "halfpriceY2": "6.2",
-        "priceY3": "7.1",
-        "halfpriceY3": "3.6"
+        "halfpriceY2": "6.2"
     },
     {
         "number": 24,
@@ -355,13 +355,13 @@
         "maxPZ": "2",
         "priceZ1": "20.1",
         "halfpriceZ1": "10.1",
-        "priceZ2": "17.8",
-        "halfpriceZ2": "8.9",
+        "priceZ2": "7.1",
+        "halfpriceZ2": "3.6",
         "maxPY": "2",
         "priceY1": "20.1",
         "halfpriceY1": "10.1",
-        "priceY2": "7.1",
-        "halfpriceY2": "3.6"
+        "priceY2": "17.8",
+        "halfpriceY2": "8.9"
     },
     {
         "number": 25,
@@ -371,13 +371,13 @@
         "maxPZ": "2",
         "priceZ1": "20.1",
         "halfpriceZ1": "10.1",
-        "priceZ2": "17.8",
-        "halfpriceZ2": "8.9",
+        "priceZ2": "7.1",
+        "halfpriceZ2": "3.6",
         "maxPY": "2",
         "priceY1": "20.1",
         "halfpriceY1": "10.1",
-        "priceY2": "7.1",
-        "halfpriceY2": "3.6"
+        "priceY2": "17.8",
+        "halfpriceY2": "8.9"
     },
     {
         "number": 26,
@@ -387,13 +387,13 @@
         "maxPZ": "2",
         "priceZ1": "17.8",
         "halfpriceZ1": "8.9",
-        "priceZ2": "12.3",
-        "halfpriceZ2": "6.2",
+        "priceZ2": "6.4",
+        "halfpriceZ2": "3.2",
         "maxPY": "2",
         "priceY1": "17.8",
         "halfpriceY1": "8.9",
-        "priceY2": "6.4",
-        "halfpriceY2": "3.2"
+        "priceY2": "12.3",
+        "halfpriceY2": "6.2"
     },
     {
         "number": 27,
@@ -415,13 +415,13 @@
         "maxPZ": "2",
         "priceZ1": "18.9",
         "halfpriceZ1": "9.5",
-        "priceZ2": "12.3",
-        "halfpriceZ2": "6.2",
+        "priceZ2": "7.1",
+        "halfpriceZ2": "3.6",
         "maxPY": "2",
         "priceY1": "18.9",
         "halfpriceY1": "9.5",
-        "priceY2": "7.1",
-        "halfpriceY2": "3.6"
+        "priceY2": "12.3",
+        "halfpriceY2": "6.2"
     },
     {
         "number": 29,
