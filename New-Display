@@ -12,10 +12,10 @@
       "number": 1,
       "route": "T1",
       "front": 1,
-      "frontid1": "rbxassetid://103506554229571",
-      "controllerid1": "rbxassetid://95770824825616",
+      "frontid1": "rbxassetid://95770824825616",
+      "controllerid1": "rbxassetid://103506554229571",
       "side": 1,
-      "sideid1": "rbxassetid://103506554229571"
+      "sideid1": "rbxassetid://95770824825616"
     },
     {
       "number": 2,
