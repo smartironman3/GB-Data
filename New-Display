@@ -10,15 +10,12 @@
     },
     {
       "number": 1,
-      "route": "20Y",
-      "front": 2,
-      "frontid1": "rbxassetid://14038700379",
-      "frontid2": "rbxassetid://14038700067",      
-      "controllerid1": "",
-      "controllerid2": "",      
-      "side": 2,
-      "sideid1": "rbxassetid://14038700379",
-      "sideid2": "rbxassetid://14038700067"
+      "route": "T1",
+      "front": 1,
+      "frontid1": "rbxassetid://103506554229571",
+      "controllerid1": "rbxassetid://95770824825616",
+      "side": 1,
+      "sideid1": "rbxassetid://103506554229571"
     },
     {
       "number": 2,
