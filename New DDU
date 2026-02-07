@@ -473,6 +473,54 @@
     },
     {
         "number": 37,
+        "route": "68A",
+        "destZ": "北薈展貿",
+        "destY": "凱琳東站",
+        "maxPZ": "1",
+        "priceZ1": "7.2",
+        "halfpriceZ1": "3.6",
+        "maxPY": "1",
+        "priceY1": "7.2",
+        "halfpriceY1": "3.6"
+    },
+    {
+        "number": 38,
+        "route": "68B",
+        "destZ": "北薈展貿",
+        "destY": "北岸",
+        "maxPZ": "1",
+        "priceZ1": "6.4",
+        "halfpriceZ1": "3.2",
+        "maxPY": "1",
+        "priceY1": "6.4",
+        "halfpriceY1": "3.2"
+    },
+    {
+        "number": 39,
+        "route": "68C",
+        "destZ": "",
+        "destY": "",
+        "maxPZ": "1",
+        "priceZ1": "",
+        "halfpriceZ1": "",
+        "maxPY": "1",
+        "priceY1": "",
+        "halfpriceY1": ""
+    },
+    {
+        "number": 40,
+        "route": "68X",
+        "destZ": "",
+        "destY": "",
+        "maxPZ": "1",
+        "priceZ1": "",
+        "halfpriceZ1": "",
+        "maxPY": "1",
+        "priceY1": "",
+        "halfpriceY1": ""
+    },
+    {
+        "number": 41,
         "route": "353",
         "destZ": "中環市中心",
         "destY": "交通博物館",
@@ -484,7 +532,7 @@
         "halfpriceY1": "0.0"
     },
     {
-        "number": 38,
+        "number": 42,
         "route": "N60",
         "destZ": "弘光邨",
         "destY": "渡船角碼頭",
@@ -498,7 +546,7 @@
         "halfpriceY1": "14.5"
     },
     {
-        "number": 39,
+        "number": 43,
         "route": "N63",
         "destZ": "北岸",
         "destY": "中環",
@@ -512,7 +560,7 @@
         "halfpriceY1": "10.4"
     },
     {
-        "number": 40,
+        "number": 44,
         "route": "N65",
         "destZ": "通宵外循環",
         "destY": "通宵外循環",
@@ -524,7 +572,7 @@
         "halfpriceY1": "5.0"
     },
     {
-        "number": 41,
+        "number": 45,
         "route": "N66",
         "destZ": "通宵內循環",
         "destY": "通宵內循環",
@@ -536,7 +584,7 @@
         "halfpriceY1": "5.0"
     },
     {
-        "number": 42,
+        "number": 46,
         "route": "70",
         "destZ": "羽田海灣",
         "destY": "日落碼頭",
@@ -560,7 +608,7 @@
         "halfpriceY4": "3.1"
     },
     {
-        "number": 43,
+        "number": 47,
         "route": "70A",
         "destZ": "羽田海灣",
         "destY": "日落碼頭",
@@ -586,7 +634,7 @@
         "halfpriceY4": "3.1"
     },
     {
-        "number": 44,
+        "number": 48,
         "route": "70M",
         "destZ": "海逸邨",
         "destY": "日落碼頭",
@@ -598,7 +646,7 @@
         "halfpriceY1": "3.1"
     },
     {
-        "number": 45,
+        "number": 49,
         "route": "71",
         "destZ": "東洋山",
         "destY": "日落西",
@@ -610,7 +658,7 @@
         "halfpriceY1": "3.4"
     },
     {
-        "number": 46,
+        "number": 50,
         "route": "N71",
         "destZ": "東洋山",
         "destY": "日落山",
@@ -622,7 +670,7 @@
         "halfpriceY1": "5.0"
     },
     {
-        "number": 47,
+        "number": 51,
         "route": "251",
         "destZ": "半山站",
         "destY": "上秀邨",
@@ -644,7 +692,7 @@
         "halfpriceY3": "2.4"
     },
     {
-        "number": 48,
+        "number": 52,
         "route": "251X",
         "destZ": "日落谷站",
         "destY": "中秀邨",
