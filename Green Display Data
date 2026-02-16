@@ -1144,5 +1144,14 @@
       "sideid2": "rbxassetid://78459251572194",
       "sideid3": "rbxassetid://90869779185721",
       "sideid4": "rbxassetid://109928970552206"
+    },
+    {
+      "number": 107,
+      "route": "65SV",
+      "front": 1,
+      "frontid1": "rbxassetid://86281313847963",
+      "controllerid1": "rbxassetid://125633071627727",        
+      "side": 1,
+      "sideid1": "rbxassetid://86281313847963"
     }
   ]
