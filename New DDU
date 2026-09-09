@@ -50,8 +50,8 @@
     {
         "number": 4,
         "route": "N40",
-        "destZ": "西岸碼頭",
-        "destY": "北島",
+        "destZ": "荔灣邨",
+        "destY": "西岸碼頭",
         "maxPZ": "1",
         "priceZ1": "8.2",
         "halfpriceZ1": "4.1",
