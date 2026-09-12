@@ -14,8 +14,8 @@
     {
         "number": 1,
         "route": "40",
-        "destZ": "荔灣邨",
-        "destY": "西岸碼頭",
+        "destZ": "盈東邨 YTE",
+        "destY": "西岸碼頭 WBF",
         "maxPZ": "1",
         "priceZ1": "5.6",
         "halfpriceZ1": "2.8",
@@ -26,8 +26,8 @@
     {
         "number": 2,
         "route": "40X",
-        "destZ": "荔灣邨",
-        "destY": "西岸小築",
+        "destZ": "荔灣邨 LYE",
+        "destY": "西岸小築 WBV",
         "maxPZ": "1",
         "priceZ1": "6.4",
         "halfpriceZ1": "3.2",
@@ -50,8 +50,8 @@
     {
         "number": 4,
         "route": "N40",
-        "destZ": "荔灣邨",
-        "destY": "西岸碼頭",
+        "destZ": "荔灣邨 LYE",
+        "destY": "西岸碼頭 WBF",
         "maxPZ": "1",
         "priceZ1": "8.2",
         "halfpriceZ1": "4.1",
